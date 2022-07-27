@@ -154,7 +154,7 @@ public class Triqui {
      */
     private int validarSegundaDiagonal() {
         int validador0 = 0;
-        int validador1 = 1;
+        int validador1 = 0;
 
         if (triqui[0][2] == 0) {
             validador0 = validador0 + 1;
